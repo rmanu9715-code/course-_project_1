@@ -200,6 +200,20 @@ Program shows menu like:
 4. Exit
 Enter your choice:
 
+### screenshot
+
+<img width="552" height="196" alt="image" src="https://github.com/user-attachments/assets/9aceb66f-1a3f-4dd3-a680-9a7e77d27779" />
+
+<img width="622" height="210" alt="image" src="https://github.com/user-attachments/assets/cff3ae4d-f833-4f91-98af-38135ba79841" />
+
+<img width="758" height="142" alt="image" src="https://github.com/user-attachments/assets/b4811eeb-ca39-4ad4-84c6-e1f9cd770c5e" />
+
+<img width="570" height="204" alt="image" src="https://github.com/user-attachments/assets/73c6cd70-019a-4cdd-89e5-430a73447782" />
+
+
+
+
+
 
 
 
